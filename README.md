@@ -1,4 +1,3 @@
-# employability-os
 # Employability OS (e-OS)
 
 🚀 AI-powered Internship & Placement Management Platform
@@ -76,11 +75,14 @@ employability-os/
 
 ## 🏗 System Architecture
 
+```text
 Student → Frontend → Backend APIs → MongoDB
                                  ↓
                         ML Recommendation Engine
                                  ↓
                       Internship Recommendations
+```
+
 
 ---
 
@@ -92,7 +94,6 @@ Student → Frontend → Backend APIs → MongoDB
 - Skill-gap analysis
 - Recruiter analytics dashboard
 
----
 ---
 
 ## 👥 Team
