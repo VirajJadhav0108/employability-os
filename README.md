@@ -66,15 +66,13 @@ to generate personalized internship opportunities for students.
 ```bash
 employability-os/
 │
-├── client/
-├── server/
-├── ml-engine/
-├── docs/
-├── assets/
+├── client/        # Frontend (React.js)
+├── server/        # Backend APIs (Node.js + Express)
+├── ml-engine/     # Recommendation Engine
+├── docs/          # Documentation and SIH PPT
+├── assets/        # Images and screenshots
 └── README.md
 ```
-
----
 
 ## 🏗 System Architecture
 
@@ -94,6 +92,7 @@ Student → Frontend → Backend APIs → MongoDB
 - Skill-gap analysis
 - Recruiter analytics dashboard
 
+---
 ---
 
 ## 👥 Team
