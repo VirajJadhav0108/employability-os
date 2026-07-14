@@ -99,4 +99,4 @@ Student → Frontend → Backend APIs → MongoDB
 ## 👥 Team
 
 Team AltF4  
-Smart India Hackathon 2025
+Smart India Hackathon - 2025
